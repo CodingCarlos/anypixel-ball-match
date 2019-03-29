@@ -1,6 +1,8 @@
 # anypixel-ball-match
 Just a test game to test the anypixel power
 
+![preview](preview.gif)
+
 ## Getting Started
 
 1. Install the [anypixel previewer app](https://github.com/googlecreativelab/anypixel/blob/master/frontend/previewer/README.md)
