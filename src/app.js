@@ -1,6 +1,9 @@
 /*
-QUE QUEDA: 
- - Adaptarlo a la pantalla de Londres T_T
+TO_DO @CodingCarlos: 
+ [ ] Adapt to the Campus London anypixel
+ [ ] Use circles instead of squares
+ [ ] Improve collissions
+ [ ] Modularize the code
 */
 
 var anypixel = require('anypixel'); 

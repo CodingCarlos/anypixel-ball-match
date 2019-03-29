@@ -1,15 +1,14 @@
 {
-  "name": "anypixel-london",
-  "version": "1.0.0",
-  "description": "",
+  "name": "anypixel-ball-match",
+  "version": "0.1.0",
+  "description": "A ball match for anypixel",
   "main": "index.js",
   "scripts": {
     "build": "browserify src/app.js -d > index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "hola@codingcarlos.com",
+  "license": "MIT",
   "dependencies": {
-    "anypixel": "^1.0.2",
-    "exdat": "^0.6.2"
+    "anypixel": "^1.0.2"
   }
 }
