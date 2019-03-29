@@ -1,0 +1,15 @@
+{
+  "name": "anypixel-london",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify src/app.js -d > index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "anypixel": "^1.0.2",
+    "exdat": "^0.6.2"
+  }
+}
